@@ -1,0 +1,2 @@
+# Golang Concurrency Patterns
+In this repository, I'm implementing the concepts discussed in the Google I/O 2012 by Rob Pike who is one of the creators of the language. You can find the talk [here](https://youtu.be/f6kdp27TYZs). I used [cobra](https://github.com/spf13/cobra) for giving the implementation a easy interface.
